@@ -39,3 +39,5 @@ Using `make` will create the `minishell` executable.
 
 `./minishell`
 
+
+<img src=https://github.com/alina-aristova/minishell/blob/master/img/Screen%20Shot%202021-05-25%20at%203.08.32%20PM.png width="1000">  
